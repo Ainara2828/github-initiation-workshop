@@ -1,4 +1,4 @@
 def main():
-    pass
+    print('hello from remote')
   
 main()
