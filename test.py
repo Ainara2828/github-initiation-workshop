@@ -1,7 +1,6 @@
 def displayNumbers(x):
     for i in range(0,x):
-        print('Your are at iteration number')
-        print(i)
+        print("Your are at iteration number {i}/{x}".format(i=i,x=x))
 
 
 def main():
