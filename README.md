@@ -1,4 +1,3 @@
-# github-coursera
+# github-initiation-workshop
 
-This repository is for coursera github training
-I'll add few more lines for the qwiklab exercice
+This repository is for github training
